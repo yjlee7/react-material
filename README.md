@@ -1,8 +1,6 @@
 # react-material-practice
 
-MUI가 적용되지 않은 샘플 코드입니다.
-
-`ItemList`, `Cart`, `AddItem`에 MUI를 적용해보세요.
+예제 코드에 `Grid`, `Dialog`, `TextField`, `Table`, `AppBar`, `Snackbar`, `Icon`을 적용했습니다.
 
 ✨ [MUI](https://mui.com/)
 
